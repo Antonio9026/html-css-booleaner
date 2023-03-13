@@ -15,11 +15,10 @@ header {
 
 h1 {
     font-size: 200%;
+    padding-right: 40%;
 }
 
-#manifesto {
-    margin-top: -2%;
-}
+
 
 h4 {
     color: #8f8f8f;
@@ -33,10 +32,42 @@ h4 {
 h5 {
     color: #8f8f8f;
     margin-top: -1%;
+    
 }
 
 /* foto principali */
 
 .jhon{
     font-size: 50%;
+}
+
+/* corpo articolo  */
+
+.corpo{
+    padding-right: 40%;
+}
+
+/* tabella */
+
+table{
+
+    text-align: left;
+}
+
+.cella2{
+   padding-left: 20%; 
+}
+
+.cella3{
+    padding-left: 40%;
+}
+
+thead{
+    background-color:#1aabe6 ;
+    color:#ffffff ;
+    
+}
+
+.row{
+    background-color:#b2e6f2 ;
 }
