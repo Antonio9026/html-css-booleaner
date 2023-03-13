@@ -5,8 +5,32 @@ header {
 }
 
 /* logo size */
-#logo{
+#logo {
     width: 15%;
     height: 25%;
     padding-top: 2%;
+}
+
+/* titolo dell'articolo */
+
+h1 {
+    font-size: 200%;
+}
+
+#manifesto {
+    margin-top: -2%;
+}
+
+h4 {
+    color: #8f8f8f;
+    margin-top: -1%;
+}
+
+#theb {
+    color: #5ac1ec;
+}
+
+h5 {
+    color: #8f8f8f;
+    margin-top: -1%;
 }
