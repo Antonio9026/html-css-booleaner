@@ -80,7 +80,23 @@ thead{
    
 }
 
-.foot{
-    display: block;
-    padding-top: 1%;
+#graph{
+    width: 200px;
+    height: 200px;
+    background-image: url("../img/graph.jpg");
+    margin-top: 20px;
+}
+
+#monitor{
+    width: 200px;
+    height: 200px;
+    background-image: url("../img/monitor.jpg");
+    margin-top: 20px;
+}
+.word{
+    color: antiquewhite;
+   
+}
+.text{
+    background-color: yellow;
 }
