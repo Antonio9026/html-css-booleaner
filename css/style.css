@@ -71,3 +71,16 @@ thead{
 .row{
     background-color:#b2e6f2 ;
 }
+
+/* pie di pagina */
+
+#info{
+    color: #818181;
+   font-size: 120%;
+   
+}
+
+.foot{
+    display: block;
+    padding-top: 1%;
+}
